@@ -78,10 +78,7 @@ Each image shows:
 ## Model Details
 - Architecture: ResNet18
 - Input: 3-channel microscopy images (DAPI, Actin, Tubulin)
-- Training strategy:
-compound-level data split
-class filtering (minimum sample threshold)
-weighted sampling to address imbalance
+- Training strategy: compound-level data split, class filtering (minimum sample threshold), weighted sampling to address imbalance
 - Loss function: Cross-Entropy
 
 ## Strengths
