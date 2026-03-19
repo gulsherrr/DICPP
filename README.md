@@ -22,9 +22,9 @@ The final result is a usable inference tool that can take new microscopy images 
 ## Input Format
 
 Each sample consists of three grayscale TIFF images:
-DAPI (nuclear stain)
-Actin (cytoskeleton structure)
-Tubulin (microtubule network)
+- DAPI (nuclear stain)
+- Actin (cytoskeleton structure)
+- Tubulin (microtubule network)
 
 These are combined into a 3-channel input for the model.
 
