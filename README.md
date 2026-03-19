@@ -104,3 +104,6 @@ weighted sampling to address imbalance
 - Add uncertainty detection for low-confidence predictions
 - Support batch inference for large datasets
 - Improve robustness across different imaging conditions
+
+***DISCLAIMER:***
+This is a personal research project built for learning and experimentation purposes and should not be used for clinical, diagnostic, or other real-world decision-making. If anyone wants to experiment with it, feel free to do so. Have fun
