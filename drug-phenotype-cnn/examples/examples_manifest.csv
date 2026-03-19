@@ -1,0 +1,4 @@
+example_id,moa,predicted_moa,confidence,compound,dapi_file,actin_file,tubulin_file
+example1,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9999538660049438,AZ-A,example1_dapi.tif,example1_actin.tif,example1_tubulin.tif
+example2,DMSO,DMSO,1.0,DMSO,example2_dapi.tif,example2_actin.tif,example2_tubulin.tif
+example3,Protein synthesis,Protein synthesis,0.999158501625061,cyclohexamide,example3_dapi.tif,example3_actin.tif,example3_tubulin.tif

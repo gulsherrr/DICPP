@@ -1,0 +1,253 @@
+true_label_id,pred_label_id,true_moa,pred_moa,confidence,compound,correct
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9659218192100525,AZ-A,True
+0,2,Aurora kinase inhibitors,DNA damage,0.6405138969421387,AZ-A,False
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9543747901916504,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9393362402915955,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9926365613937378,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9992606043815613,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9986315369606018,AZ-A,True
+0,2,Aurora kinase inhibitors,DNA damage,0.5485190153121948,AZ-A,False
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9879828691482544,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9999419450759888,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9993394017219543,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.8780369758605957,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9985505938529968,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9132030010223389,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9131737947463989,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.8026241064071655,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9985615611076355,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9909148216247559,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9941076040267944,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9960899949073792,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9961942434310913,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9995049238204956,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9992883801460266,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9997437596321106,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.7744030952453613,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9928967356681824,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.8283923864364624,AZ-A,True
+0,2,Aurora kinase inhibitors,DNA damage,0.571564793586731,AZ-A,False
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.988565981388092,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9900908470153809,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9586288332939148,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9990239143371582,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.979977548122406,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.6709063649177551,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.7332770228385925,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9220682382583618,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9335979223251343,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9756737947463989,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.8656181693077087,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.7973883152008057,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9901648163795471,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9999538660049438,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9587552547454834,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9990123510360718,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.958561360836029,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9670772552490234,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9947927594184875,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.8524823784828186,AZ-A,True
+0,2,Aurora kinase inhibitors,DNA damage,0.5318530797958374,AZ-A,False
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9970319271087646,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.99122554063797,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.8870022296905518,AZ-A,True
+0,5,Aurora kinase inhibitors,Microtubule stabilizers,0.9544788002967834,AZ-A,False
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9992855191230774,AZ-A,True
+0,2,Aurora kinase inhibitors,DNA damage,0.6823082566261292,AZ-A,False
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9207710027694702,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.6997986435890198,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9246876239776611,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9143641591072083,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9919719696044922,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9903552532196045,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9642567038536072,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.6733231544494629,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.4634711444377899,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9105702042579651,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9871730804443359,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9812701940536499,AZ-A,True
+0,2,Aurora kinase inhibitors,DNA damage,0.7182624936103821,AZ-A,False
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9701970815658569,AZ-A,True
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.5530596375465393,AZ-A,True
+0,2,Aurora kinase inhibitors,DNA damage,0.585439145565033,AZ-A,False
+0,0,Aurora kinase inhibitors,Aurora kinase inhibitors,0.9293212294578552,AZ-A,True
+2,1,DNA damage,DMSO,0.9700974225997925,cisplatin,False
+2,1,DNA damage,DMSO,0.9182018637657166,cisplatin,False
+2,1,DNA damage,DMSO,0.9782056212425232,cisplatin,False
+2,1,DNA damage,DMSO,0.9935439825057983,cisplatin,False
+2,1,DNA damage,DMSO,0.9998387098312378,cisplatin,False
+2,1,DNA damage,DMSO,0.9925608038902283,cisplatin,False
+2,1,DNA damage,DMSO,0.9993040561676025,cisplatin,False
+2,1,DNA damage,DMSO,0.9817706942558289,cisplatin,False
+2,1,DNA damage,DMSO,0.9804630875587463,cisplatin,False
+2,1,DNA damage,DMSO,0.538950502872467,cisplatin,False
+2,1,DNA damage,DMSO,0.6520141363143921,cisplatin,False
+2,1,DNA damage,DMSO,0.8926461338996887,cisplatin,False
+4,5,Microtubule destabilizers,Microtubule stabilizers,0.9462407827377319,nocodazole,False
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.7525501251220703,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.8102355003356934,nocodazole,True
+4,5,Microtubule destabilizers,Microtubule stabilizers,0.8110377192497253,nocodazole,False
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.7225359082221985,nocodazole,True
+4,5,Microtubule destabilizers,Microtubule stabilizers,0.876209020614624,nocodazole,False
+4,5,Microtubule destabilizers,Microtubule stabilizers,0.9618322849273682,nocodazole,False
+4,5,Microtubule destabilizers,Microtubule stabilizers,0.9725925922393799,nocodazole,False
+4,5,Microtubule destabilizers,Microtubule stabilizers,0.9863362312316895,nocodazole,False
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.7490374445915222,nocodazole,True
+4,5,Microtubule destabilizers,Microtubule stabilizers,0.9914447665214539,nocodazole,False
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.7365977764129639,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.852782130241394,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.9790557026863098,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.9691921472549438,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.9999721050262451,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.9878078103065491,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.9780870676040649,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.6109611392021179,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.9211379289627075,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.8538345694541931,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.6144763231277466,nocodazole,True
+4,4,Microtubule destabilizers,Microtubule destabilizers,0.9644047021865845,nocodazole,True
+4,5,Microtubule destabilizers,Microtubule stabilizers,0.516617476940155,nocodazole,False
+6,6,Protein synthesis,Protein synthesis,0.9839318990707397,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9814336895942688,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.579531729221344,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.6716864705085754,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9858675599098206,cyclohexamide,True
+6,4,Protein synthesis,Microtubule destabilizers,0.4978347420692444,cyclohexamide,False
+6,6,Protein synthesis,Protein synthesis,0.6255468130111694,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.5573875904083252,cyclohexamide,True
+6,1,Protein synthesis,DMSO,0.9496027231216431,cyclohexamide,False
+6,3,Protein synthesis,Eg5 inhibitors,0.6126933097839355,cyclohexamide,False
+6,6,Protein synthesis,Protein synthesis,0.9867152571678162,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.5064685344696045,cyclohexamide,True
+6,5,Protein synthesis,Microtubule stabilizers,0.6481462121009827,cyclohexamide,False
+6,6,Protein synthesis,Protein synthesis,0.9874869585037231,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9785075187683105,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9860559701919556,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.840751051902771,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.8171824216842651,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.4704650938510895,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9595219492912292,cyclohexamide,True
+6,4,Protein synthesis,Microtubule destabilizers,0.6011362075805664,cyclohexamide,False
+6,6,Protein synthesis,Protein synthesis,0.9933682084083557,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9969168901443481,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.49605244398117065,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9962230920791626,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9897984266281128,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9577282667160034,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9977376461029053,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9853203892707825,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9622871279716492,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9895603656768799,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9597209692001343,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.9976001381874084,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.999158501625061,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.6965169906616211,cyclohexamide,True
+6,6,Protein synthesis,Protein synthesis,0.41754722595214844,cyclohexamide,True
+1,1,DMSO,DMSO,0.9999840259552002,DMSO,True
+1,1,DMSO,DMSO,0.9999634027481079,DMSO,True
+1,1,DMSO,DMSO,0.9999325275421143,DMSO,True
+1,1,DMSO,DMSO,0.9964549541473389,DMSO,True
+1,1,DMSO,DMSO,0.9997367262840271,DMSO,True
+1,1,DMSO,DMSO,0.9999979734420776,DMSO,True
+1,1,DMSO,DMSO,0.9999996423721313,DMSO,True
+1,1,DMSO,DMSO,0.9999991655349731,DMSO,True
+1,1,DMSO,DMSO,0.9999985694885254,DMSO,True
+1,1,DMSO,DMSO,0.9999364614486694,DMSO,True
+1,1,DMSO,DMSO,0.9999966621398926,DMSO,True
+1,1,DMSO,DMSO,0.9999706745147705,DMSO,True
+1,1,DMSO,DMSO,0.9999343156814575,DMSO,True
+1,1,DMSO,DMSO,1.0,DMSO,True
+1,1,DMSO,DMSO,0.9999902248382568,DMSO,True
+1,1,DMSO,DMSO,1.0,DMSO,True
+1,1,DMSO,DMSO,0.9999867677688599,DMSO,True
+1,1,DMSO,DMSO,0.9999997615814209,DMSO,True
+1,1,DMSO,DMSO,0.9999552965164185,DMSO,True
+1,1,DMSO,DMSO,0.9999901056289673,DMSO,True
+1,1,DMSO,DMSO,0.9999861717224121,DMSO,True
+1,1,DMSO,DMSO,0.9740486145019531,DMSO,True
+1,1,DMSO,DMSO,1.0,DMSO,True
+1,1,DMSO,DMSO,0.9992690682411194,DMSO,True
+1,1,DMSO,DMSO,0.99981290102005,DMSO,True
+1,1,DMSO,DMSO,0.9999947547912598,DMSO,True
+1,1,DMSO,DMSO,0.9999861717224121,DMSO,True
+1,1,DMSO,DMSO,0.9999997615814209,DMSO,True
+1,1,DMSO,DMSO,0.9999972581863403,DMSO,True
+1,1,DMSO,DMSO,0.9999990463256836,DMSO,True
+1,1,DMSO,DMSO,0.8354769349098206,DMSO,True
+1,1,DMSO,DMSO,0.9999966621398926,DMSO,True
+1,1,DMSO,DMSO,0.9999990463256836,DMSO,True
+1,1,DMSO,DMSO,0.9999020099639893,DMSO,True
+1,1,DMSO,DMSO,0.9999951124191284,DMSO,True
+1,1,DMSO,DMSO,1.0,DMSO,True
+1,1,DMSO,DMSO,0.9999998807907104,DMSO,True
+1,1,DMSO,DMSO,0.9993898868560791,DMSO,True
+1,1,DMSO,DMSO,0.9999897480010986,DMSO,True
+1,1,DMSO,DMSO,0.8246618509292603,DMSO,True
+1,1,DMSO,DMSO,1.0,DMSO,True
+1,1,DMSO,DMSO,0.9998219609260559,DMSO,True
+1,1,DMSO,DMSO,0.9999964237213135,DMSO,True
+1,1,DMSO,DMSO,1.0,DMSO,True
+1,1,DMSO,DMSO,0.999996542930603,DMSO,True
+1,1,DMSO,DMSO,0.9999911785125732,DMSO,True
+1,1,DMSO,DMSO,0.9999972581863403,DMSO,True
+1,1,DMSO,DMSO,0.999998927116394,DMSO,True
+1,1,DMSO,DMSO,0.9999998807907104,DMSO,True
+1,1,DMSO,DMSO,0.9938544034957886,DMSO,True
+1,1,DMSO,DMSO,0.9999788999557495,DMSO,True
+1,1,DMSO,DMSO,0.999988317489624,DMSO,True
+1,1,DMSO,DMSO,0.9999895095825195,DMSO,True
+1,1,DMSO,DMSO,0.9962325692176819,DMSO,True
+1,1,DMSO,DMSO,0.9999651908874512,DMSO,True
+1,1,DMSO,DMSO,0.9999961853027344,DMSO,True
+1,1,DMSO,DMSO,0.9182336330413818,DMSO,True
+1,1,DMSO,DMSO,0.9999986886978149,DMSO,True
+1,1,DMSO,DMSO,0.9999996423721313,DMSO,True
+1,1,DMSO,DMSO,0.9999998807907104,DMSO,True
+1,1,DMSO,DMSO,0.9999746084213257,DMSO,True
+1,1,DMSO,DMSO,0.9999940395355225,DMSO,True
+1,1,DMSO,DMSO,0.9999984502792358,DMSO,True
+1,1,DMSO,DMSO,1.0,DMSO,True
+1,1,DMSO,DMSO,0.9878053665161133,DMSO,True
+1,1,DMSO,DMSO,0.9999997615814209,DMSO,True
+1,1,DMSO,DMSO,0.9999994039535522,DMSO,True
+1,1,DMSO,DMSO,0.999995231628418,DMSO,True
+1,1,DMSO,DMSO,0.9999954700469971,DMSO,True
+1,1,DMSO,DMSO,0.9999608993530273,DMSO,True
+1,1,DMSO,DMSO,0.9999936819076538,DMSO,True
+1,1,DMSO,DMSO,0.9999988079071045,DMSO,True
+1,1,DMSO,DMSO,0.999996542930603,DMSO,True
+1,1,DMSO,DMSO,0.9999383687973022,DMSO,True
+1,1,DMSO,DMSO,0.8896743655204773,DMSO,True
+1,1,DMSO,DMSO,0.9995367527008057,DMSO,True
+1,1,DMSO,DMSO,0.9993757605552673,DMSO,True
+1,1,DMSO,DMSO,0.9939025640487671,DMSO,True
+1,1,DMSO,DMSO,0.9850223660469055,DMSO,True
+1,1,DMSO,DMSO,0.9999991655349731,DMSO,True
+1,1,DMSO,DMSO,0.999998927116394,DMSO,True
+1,1,DMSO,DMSO,0.9992952346801758,DMSO,True
+1,1,DMSO,DMSO,0.9999712705612183,DMSO,True
+1,1,DMSO,DMSO,0.9739407300949097,DMSO,True
+1,1,DMSO,DMSO,1.0,DMSO,True
+1,1,DMSO,DMSO,0.9999758005142212,DMSO,True
+1,1,DMSO,DMSO,0.9991229176521301,DMSO,True
+1,1,DMSO,DMSO,0.9999748468399048,DMSO,True
+1,1,DMSO,DMSO,0.9999407529830933,DMSO,True
+1,1,DMSO,DMSO,0.9999998807907104,DMSO,True
+1,1,DMSO,DMSO,0.9999867677688599,DMSO,True
+1,1,DMSO,DMSO,0.9999996423721313,DMSO,True
+1,1,DMSO,DMSO,0.9999696016311646,DMSO,True
+1,1,DMSO,DMSO,0.9999997615814209,DMSO,True
+1,1,DMSO,DMSO,0.999962329864502,DMSO,True
+1,1,DMSO,DMSO,0.9999991655349731,DMSO,True
+1,1,DMSO,DMSO,0.9999903440475464,DMSO,True
+1,1,DMSO,DMSO,0.9963333606719971,DMSO,True
+1,1,DMSO,DMSO,0.9999587535858154,DMSO,True
+1,1,DMSO,DMSO,0.9999988079071045,DMSO,True
+1,1,DMSO,DMSO,0.9999997615814209,DMSO,True
+1,1,DMSO,DMSO,0.9999980926513672,DMSO,True
+1,1,DMSO,DMSO,0.9999992847442627,DMSO,True
+1,1,DMSO,DMSO,0.9888504147529602,DMSO,True
+1,1,DMSO,DMSO,0.9999997615814209,DMSO,True
+1,6,DMSO,Protein synthesis,0.7617092728614807,DMSO,False
+1,1,DMSO,DMSO,0.9999959468841553,DMSO,True
+1,1,DMSO,DMSO,0.9999977350234985,DMSO,True
