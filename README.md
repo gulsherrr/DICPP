@@ -1,4 +1,4 @@
-# Drug-Induced Cell Phenotype Predictor using CNN and Grad-CAM
+# Drug-Induced Cell Phenotype Predictor (DICPP) using CNN and Grad-CAM
 ## Overview
 
 This project builds a deep learning pipeline that analyzes fluorescence microscopy images of cells and predicts the *drug-induced phenotype (mechanism of action, MoA)*
