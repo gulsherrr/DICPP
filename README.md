@@ -12,27 +12,18 @@ Given three grayscale TIFF images representing different cellular structures (DA
 The final result is a usable inference tool that can take new microscopy images and produce interpretable predictions.
 
 ## What the Project Does
-
 - Preprocesses multi-channel microscopy images
-
 - Trains a CNN (ResNet18) to classify drug-induced phenotypes
-
 - Handles class imbalance and compound-level data splitting
-
 - Evaluates model performance on unseen compounds
-
 - Provides an inference tool for new image prediction
-
 - Uses Grad-CAM for model interpretability
 
 ## Input Format
 
 Each sample consists of three grayscale TIFF images:
-
 DAPI (nuclear stain)
-
 Actin (cytoskeleton structure)
-
 Tubulin (microtubule network)
 
 These are combined into a 3-channel input for the model.
